@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1590327431 source:c:\users\ÿ\documents\myprojects\cryptalgs\hillalg.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"HillAlg.h"
+
+1590081004 c:\users\ÿ\documents\myprojects\cryptalgs\hillalg.h
+
+1590327189 source:c:\users\ÿ\documents\myprojects\cryptalgs\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"HillAlg.h"
+	"GammaAlg.h"
+	"VernamAlg.h"
+
+1590327379 source:c:\users\ÿ\documents\myprojects\cryptalgs\gammaalg.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"GammaAlg.h"
+
+1590142844 c:\users\ÿ\documents\myprojects\cryptalgs\gammaalg.h
+
+1590148803 c:\users\ÿ\documents\myprojects\cryptalgs\vernamalg.h
+
+1590323094 source:c:\users\ÿ\documents\myprojects\cryptalgs\vernamalg.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"VernamAlg.h"
+
+1590322840 c:\users\ÿ\documents\myprojects\cryptalgs\rsaalg.h
+
+1590325092 source:c:\users\ÿ\documents\myprojects\cryptalgs\rsaalg.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"RSAalg.h"
+
